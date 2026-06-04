@@ -1,15 +1,10 @@
-# {Project Name} - Built with FastAPI + Jinja2 + SQLite
+# castle defender - Built with FastAPI + Jinja2 + SQLite
 
-A {one-line description} web application built with FastAPI, Jinja2 and SQLite.
+A castle defender web application built with FastAPI, Jinja2 and SQLite.
 
 ## Live Demo
 
-- Demo: [{Project Name}]({SITE_URL})
-- Source: [GitHub]({GitHub URL})
-
-## Screenshots
-
-![screenshot]({screenshot path})
+- Demo: [castledefender.gamenewspaper.com](https://castledefender.gamenewspaper.com/)
 
 ## Tech Stack
 
