@@ -1,10 +1,11 @@
-# castle defender - Built with FastAPI + Jinja2 + SQLite
+# castle-defender - Built with FastAPI + Jinja2 + SQLite
 
-A castle defender web application built with FastAPI, Jinja2 and SQLite.
+A web application for castle-defender built with FastAPI, Jinja2 and SQLite.
 
 ## Live Demo
 
-- Demo: [castledefender.gamenewspaper.com](https://castledefender.gamenewspaper.com/)
+- Demo: [castle-defender](castledefender.gamenewspaper.com)
+- Source: [GitHub](https://github.com/cq1824538531/castle-defender)
 
 ## Tech Stack
 
@@ -42,7 +43,7 @@ Then visit http://localhost:8000
 
 **1. Where is the database?**
 
-The `{xxx}.db` file is in the project root. No additional database installation needed.
+The `.db` file is in the project root. No additional database installation needed.
 
 **2. Project structure?**
 
