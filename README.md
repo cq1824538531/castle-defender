@@ -7,6 +7,8 @@ A web application for castle defender built with FastAPI, Jinja2 and SQLite.
 - Demo: [castle defender](https://castledefender.gamenewspaper.com)
 - Source: [GitHub](https://github.com/cq1824538531/castle-defender)
 
+
+
 ## Tech Stack
 
 | Layer | Technology |
